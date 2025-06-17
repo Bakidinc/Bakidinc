@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baki</h1>
-<h3 align="center">Im Computer Engineer</h3>
+<h3 align="center">Im Embedded software Engineer /Automation engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
